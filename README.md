@@ -7,4 +7,4 @@
 </p>
 
 *Jika Tidak Memiliki APLIKASI GOJEK.*
-[![](https://img.shields.io/badge/Dana/blue?logo=Dana.com&logoColor=blue&labelColor=white)](https://Dana.com/6283182713104)
+[![](https://img.shields.io/badge/Dana/blue?logo=Dana&logoColor=blue&labelColor=white)](https://Dana.com/6283182713104)
