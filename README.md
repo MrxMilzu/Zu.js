@@ -7,4 +7,4 @@
 </p>
 
 *Jika Tidak Memiliki APLIKASI GOJEK.*
-[![](https://img.shields.io/badge/Dana-Pay-black?logo=Dana&logoColor=blue&labelColor=white)](https://link.dana.id/qr/3u8s8cbp)
+[![](https://img.shields.io/badge/Dana-pay-white?logo=dompetku.xyz&logoColor=blue&labelColor=blue)](https://dompetku.xyz/bagi/083182423040)
