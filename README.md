@@ -1,6 +1,6 @@
 # *FITUR* :
-  ```FITUR STICKER```
-  ```FITUR ANTILINK```
+  [x] ```FITUR STICKER```
+  [x] ```FITUR ANTILINK```
 
 #
 
