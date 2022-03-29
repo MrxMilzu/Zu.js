@@ -1,4 +1,4 @@
-# *FITUR USER* :
+#   *FITUR USER* :
  - [x] ```FITUR STICKER```
  - [x] ```FITUR ANTILINK```
  - [x] ```FITUR TEKA-TEKI```
@@ -17,7 +17,7 @@
  - [x] ```FITUR SMEME```
  - [x] ```FITUR SMEME2```
 
-# *FITUR ADMIN* :
+#   *FITUR ADMIN* :
  - [x] ```ADD USER```
  - [x] ```KICK USER```
  - [x] ```SET WELCOME```
