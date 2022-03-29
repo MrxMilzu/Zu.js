@@ -9,9 +9,33 @@
  - [x] ```FITUR PENCARIAN TIKTOK```
  - [x] ```FITUR CAK LONTONG```
  - [x] ```FITUR TEBAK LIRIK```
+ - [x] ```FITUR ADU AYAM```
+ - [x] ```FITUR KUISMATCH```
+ - [x] ```FITUR TEBAK GAMBAR```
+ - [x] ```FITUR TO VEDEO```
+ - [x] ```FITUR TO GIFT```
+ - [x] ```FITUR SMEME```
+ - [x] ```FITUR SMEME2```
 
 # *FITUR ADMIN* :
- - [x]
+ - [x] ```ADD USER```
+ - [x] ```KICK USER```
+ - [x] ```SET WELCOME```
+ - [x] ```SET LEFT```
+ - [x] ```ANTI VITEX```
+ - [x] ```ANTI LINK```
+ - [x] ```JADIKAN ADMIN ANGGOTA```
+ - [x] ```MEMBERHENTIKAN ANGGOTA MENJADI ADMIN```
+ - [x] ```TAG ALL```
+ - [x] ```HIDE TAG ALL```
+ - [x] ```CEK ABSEN```
+ - [x] ```HAPUS ABSEN```
+ - [x] ```SET PP GC```
+ - [x] ```SET PP BOT```
+ - [x] ```BLOCK @USER```
+ - [x] ```UNBLOCK @USER```
+ - [x] ```SET CMD```
+ - [x] ```DELETE CMD```
 
 # Donasi
 *Scan Code QR dibawah ini Untuk Donasinya*
