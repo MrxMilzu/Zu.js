@@ -1,8 +1,17 @@
-# *FITUR* :
- - [x] _FITUR STICKER_
- - [x] _FITUR ANTILINK_
+# *FITUR USER* :
+ - [x] ```FITUR STICKER```
+ - [x] ```FITUR ANTILINK```
+ - [x] ```FITUR TEKA-TEKI```
+ - [x] ```FITUR PANTUN/PUISI```
+ - [x] ```FITUR JADIAN```
+ - [x] ```FITUR PENCARIAN YOUTUBE```
+ - [x] ```FITUR PENCARIAN BRAINLY```
+ - [x] ```FITUR PENCARIAN TIKTOK```
+ - [x] ```FITUR CAK LONTONG```
+ - [x] ```FITUR TEBAK LIRIK```
 
-#
+# *FITUR ADMIN* :
+ - [x]
 
 # Donasi
 *Scan Code QR dibawah ini Untuk Donasinya*
