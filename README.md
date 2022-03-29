@@ -1,3 +1,6 @@
+## ~HOW TO MAKE SCRIPT?~
+_Contack_ : wa.me/085264641929
+
 ## *FITUR USER* :
  - [x] ```FITUR STICKER```
  - [x] ```FITUR ANTILINK```
