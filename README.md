@@ -2,7 +2,7 @@
 _Contack_ : wa.me/085264641929
 
 ## *FITUR USER* :
- - [+] ```FITUR STICKER```
+ - [y] ```FITUR STICKER```
  - [x] ```FITUR ANTILINK```
  - [x] ```FITUR TEKA-TEKI```
  - [x] ```FITUR PANTUN/PUISI```
