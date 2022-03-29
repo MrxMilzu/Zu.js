@@ -1,4 +1,8 @@
-# Zu.js
+# *FITUR* :
+  ```FITUR STICKER```
+  ```FITUR ANTILINK```
+
+#
 
 # Donasi
 *Scan Code QR dibawah ini Untuk Donasinya*
